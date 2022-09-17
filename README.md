@@ -4,14 +4,8 @@
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 
 ## [Watch Tutorial for this project](https://youtu.be/HHYqpHwGDgQ)
-<img src="https://github.com/Spidy20/InNews/blob/master/thumb.jpg">
+<img src="https://github.com/Spidy20/Face_Analysis_AWS_Rekognition/blob/master/yt_thumb.jpg">
 
-
-## Features
-- Trending News
-- Favorite Topics
-- Search News
-- Quantity control
 
 ## Usage
 - Clone my repository.
@@ -27,6 +21,8 @@
   ```
 - For more explanation of this project see the tutorial on Machine Learning Hub YouTube channel.
 
+## Screenshot
+<img src="https://github.com/Spidy20/Face_Analysis_AWS_Rekognition/blob/master/sc1.png">
 
 ## Just follow☝️ me and Star⭐ my repository 
 
