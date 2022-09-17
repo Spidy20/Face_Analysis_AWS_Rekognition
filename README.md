@@ -14,10 +14,10 @@
   ```
   pip install -r requirements.txt
   ```
-- `App.py` is the main Python file of Streamlit Web-Application. 
+- `face_analysis_app.py` is the main Python file of Streamlit Web-Application. 
 - To run app, write following command in CMD. or use any IDE.
   ```
-  streamlit run App.py
+  streamlit run face_analysis_app.py
   ```
 - For more explanation of this project see the tutorial on Machine Learning Hub YouTube channel.
 
