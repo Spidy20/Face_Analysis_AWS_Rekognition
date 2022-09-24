@@ -3,7 +3,7 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 
-## [Watch Tutorial for this project](https://youtu.be/HHYqpHwGDgQ)
+## [Watch Tutorial for this project](https://youtu.be/N2nmVCZHn58)
 <img src="https://github.com/Spidy20/Face_Analysis_AWS_Rekognition/blob/master/yt_thumb.jpg">
 
 
